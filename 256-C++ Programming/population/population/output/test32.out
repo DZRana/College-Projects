@@ -1,0 +1,120 @@
+This program calculates population change.
+Enter the starting population size: Enter the annual birth rate (as % of current population): 
+Birth rate percent cannot be negative.
+Please re-enter: 
+Enter the annual death rate (as % of current population): 
+Death rate percent cannot be negative.
+Please re-enter: 
+Death rate percent cannot be negative.
+Please re-enter: 
+Death rate percent cannot be negative.
+Please re-enter: 
+Death rate percent cannot be negative.
+Please re-enter: 
+Death rate percent cannot be negative.
+Please re-enter: 
+Death rate percent cannot be negative.
+Please re-enter: 
+For how many years do you wish to view population changes? 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+
+
+Starting population: 6405
+
+Population at the end of year 1 is 11464.
+Population at the end of year 2 is 20522.
+Population at the end of year 3 is 36734.
+Population at the end of year 4 is 65755.
+Population at the end of year 5 is 117702.
+Population at the end of year 6 is 210686.
+Population at the end of year 7 is 377129.
+Population at the end of year 8 is 675061.
+Population at the end of year 9 is 1208360.
+Population at the end of year 10 is 2162964.
+Population at the end of year 11 is 3871706.
+Population at the end of year 12 is 6930355.
+Population at the end of year 13 is 12405336.
+Population at the end of year 14 is 22205551.
+Population at the end of year 15 is 39747937.
+Population at the end of year 16 is 71148808.
+Population at the end of year 17 is 127356366.
+Population at the end of year 18 is 227967896.
+Population at the end of year 19 is 408062534.
+Population at the end of year 20 is 730431936.
+Population at the end of year 21 is 1307473166.
+Population at the end of year 22 is -2147483648.
+Population at the end of year 23 is -2147483648.
+Population at the end of year 24 is -2147483648.
+Population at the end of year 25 is -2147483648.
+Population at the end of year 26 is -2147483648.
+Population at the end of year 27 is -2147483648.
+Population at the end of year 28 is -2147483648.
+Population at the end of year 29 is -2147483648.
+Population at the end of year 30 is -2147483648.
+Population at the end of year 31 is -2147483648.
+Population at the end of year 32 is -2147483648.
+Population at the end of year 33 is -2147483648.
+Population at the end of year 34 is -2147483648.
+Population at the end of year 35 is -2147483648.
+Population at the end of year 36 is -2147483648.
+Population at the end of year 37 is -2147483648.
+Population at the end of year 38 is -2147483648.
+Population at the end of year 39 is -2147483648.
+Population at the end of year 40 is -2147483648.
+Population at the end of year 41 is -2147483648.
+Population at the end of year 42 is -2147483648.
+Population at the end of year 43 is -2147483648.
+Population at the end of year 44 is -2147483648.
+Population at the end of year 45 is -2147483648.
+Population at the end of year 46 is -2147483648.
+Population at the end of year 47 is -2147483648.
+Population at the end of year 48 is -2147483648.
+Population at the end of year 49 is -2147483648.
+Population at the end of year 50 is -2147483648.
+Population at the end of year 51 is -2147483648.
+Population at the end of year 52 is -2147483648.
+Population at the end of year 53 is -2147483648.
+Population at the end of year 54 is -2147483648.
+Population at the end of year 55 is -2147483648.
+Population at the end of year 56 is -2147483648.
+Population at the end of year 57 is -2147483648.
+Population at the end of year 58 is -2147483648.
+Population at the end of year 59 is -2147483648.
+Population at the end of year 60 is -2147483648.
+Population at the end of year 61 is -2147483648.
+Population at the end of year 62 is -2147483648.
+Population at the end of year 63 is -2147483648.
+Population at the end of year 64 is -2147483648.
+Population at the end of year 65 is -2147483648.
+Population at the end of year 66 is -2147483648.
+Population at the end of year 67 is -2147483648.
+Population at the end of year 68 is -2147483648.
+Population at the end of year 69 is -2147483648.
+Population at the end of year 70 is -2147483648.
+Population at the end of year 71 is -2147483648.
+Population at the end of year 72 is -2147483648.
+Population at the end of year 73 is -2147483648.
+Population at the end of year 74 is -2147483648.
+Population at the end of year 75 is -2147483648.
+Population at the end of year 76 is -2147483648.
+Population at the end of year 77 is -2147483648.
+Population at the end of year 78 is -2147483648.
+Population at the end of year 79 is -2147483648.
+Population at the end of year 80 is -2147483648.
+Population at the end of year 81 is -2147483648.
+Population at the end of year 82 is -2147483648.
+Population at the end of year 83 is -2147483648.
+Population at the end of year 84 is -2147483648.
+Population at the end of year 85 is -2147483648.
+Population at the end of year 86 is -2147483648.
+Population at the end of year 87 is -2147483648.
+Population at the end of year 88 is -2147483648.

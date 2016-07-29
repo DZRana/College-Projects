@@ -1,0 +1,55 @@
+This program calculates population change.
+Enter the starting population size: Enter the annual birth rate (as % of current population): 
+Birth rate percent cannot be negative.
+Please re-enter: 
+Birth rate percent cannot be negative.
+Please re-enter: 
+Enter the annual death rate (as % of current population): 
+Death rate percent cannot be negative.
+Please re-enter: 
+Death rate percent cannot be negative.
+Please re-enter: 
+For how many years do you wish to view population changes? 
+
+
+Starting population: 3402
+
+Population at the end of year 1 is 2891.
+Population at the end of year 2 is 2457.
+Population at the end of year 3 is 2089.
+Population at the end of year 4 is 1775.
+Population at the end of year 5 is 1509.
+Population at the end of year 6 is 1283.
+Population at the end of year 7 is 1090.
+Population at the end of year 8 is 927.
+Population at the end of year 9 is 787.
+Population at the end of year 10 is 669.
+Population at the end of year 11 is 569.
+Population at the end of year 12 is 483.
+Population at the end of year 13 is 411.
+Population at the end of year 14 is 349.
+Population at the end of year 15 is 297.
+Population at the end of year 16 is 252.
+Population at the end of year 17 is 214.
+Population at the end of year 18 is 182.
+Population at the end of year 19 is 155.
+Population at the end of year 20 is 131.
+Population at the end of year 21 is 112.
+Population at the end of year 22 is 95.
+Population at the end of year 23 is 80.
+Population at the end of year 24 is 68.
+Population at the end of year 25 is 58.
+Population at the end of year 26 is 49.
+Population at the end of year 27 is 42.
+Population at the end of year 28 is 35.
+Population at the end of year 29 is 30.
+Population at the end of year 30 is 25.
+Population at the end of year 31 is 22.
+Population at the end of year 32 is 18.
+Population at the end of year 33 is 15.
+Population at the end of year 34 is 13.
+Population at the end of year 35 is 11.
+Population at the end of year 36 is 9.
+Population at the end of year 37 is 8.
+Population at the end of year 38 is 7.
+Population at the end of year 39 is 6.

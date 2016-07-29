@@ -1,0 +1,2 @@
+g++ -c isp.cpp
+g++ isp.o -o isp

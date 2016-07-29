@@ -1,0 +1,49 @@
+This program calculates population change.
+Enter the starting population size: Enter the annual birth rate (as % of current population): 
+Enter the annual death rate (as % of current population): 
+Death rate percent cannot be negative.
+Please re-enter: 
+For how many years do you wish to view population changes? 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+
+
+Starting population: 366
+
+Population at the end of year 1 is 274.
+Population at the end of year 2 is 205.
+Population at the end of year 3 is 154.
+Population at the end of year 4 is 115.
+Population at the end of year 5 is 86.
+Population at the end of year 6 is 65.
+Population at the end of year 7 is 48.
+Population at the end of year 8 is 36.
+Population at the end of year 9 is 27.
+Population at the end of year 10 is 20.
+Population at the end of year 11 is 15.
+Population at the end of year 12 is 11.
+Population at the end of year 13 is 8.
+Population at the end of year 14 is 6.
+Population at the end of year 15 is 4.
+Population at the end of year 16 is 3.
+Population at the end of year 17 is 2.
+Population at the end of year 18 is 2.
+Population at the end of year 19 is 1.
+Population at the end of year 20 is 1.
+Population at the end of year 21 is 0.
+Population at the end of year 22 is 0.
+Population at the end of year 23 is 0.
+Population at the end of year 24 is 0.
+Population at the end of year 25 is 0.
+Population at the end of year 26 is 0.
+Population at the end of year 27 is 0.
+Population at the end of year 28 is 0.
+Population at the end of year 29 is 0.
+Population at the end of year 30 is 0.
+Population at the end of year 31 is 0.
+Population at the end of year 32 is 0.
+Population at the end of year 33 is 0.
+Population at the end of year 34 is 0.
+Population at the end of year 35 is 0.

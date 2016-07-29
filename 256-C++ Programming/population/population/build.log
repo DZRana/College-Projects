@@ -1,0 +1,2 @@
+g++ -c population.cpp
+g++ population.o -o population

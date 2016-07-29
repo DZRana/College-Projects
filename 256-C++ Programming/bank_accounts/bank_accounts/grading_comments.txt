@@ -1,0 +1,9 @@
+Good work!
+
+Minor issue with not handling the case of a negative deposit.
+
+-5
+
+Your code passed 12/13 test cases.
+
+-2

@@ -1,0 +1,44 @@
+This program calculates population change.
+Enter the starting population size: Enter the annual birth rate (as % of current population): 
+Enter the annual death rate (as % of current population): 
+For how many years do you wish to view population changes? 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+
+
+Starting population: 4005
+
+Population at the end of year 1 is 5446.
+Population at the end of year 2 is 7407.
+Population at the end of year 3 is 10074.
+Population at the end of year 4 is 13701.
+Population at the end of year 5 is 18633.
+Population at the end of year 6 is 25341.
+Population at the end of year 7 is 34464.
+Population at the end of year 8 is 46872.
+Population at the end of year 9 is 63745.
+Population at the end of year 10 is 86694.
+Population at the end of year 11 is 117904.
+Population at the end of year 12 is 160350.
+Population at the end of year 13 is 218076.
+Population at the end of year 14 is 296583.
+Population at the end of year 15 is 403353.
+Population at the end of year 16 is 548561.
+Population at the end of year 17 is 746043.
+Population at the end of year 18 is 1014618.
+Population at the end of year 19 is 1379881.
+Population at the end of year 20 is 1876638.
+Population at the end of year 21 is 2552228.
+Population at the end of year 22 is 3471031.
+Population at the end of year 23 is 4720602.
+Population at the end of year 24 is 6420019.
+Population at the end of year 25 is 8731225.
+Population at the end of year 26 is 11874467.
+Population at the end of year 27 is 16149275.
+Population at the end of year 28 is 21963014.
+Population at the end of year 29 is 29869700.
+Population at the end of year 30 is 40622792.
